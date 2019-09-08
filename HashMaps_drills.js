@@ -1,1 +1,1 @@
-import HashMap from './HashMap';
+const HashMap = require('./HashMap')
